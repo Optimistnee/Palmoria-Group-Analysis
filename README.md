@@ -17,7 +17,7 @@ This project involves various analysis tasks, including:
 * Compliance with the recent regulation requiring manufacturing companies to pay employees a minimum 0f  $90,000
 
  ### Tools Used
-   * Microsoft Power BI
+   * Microsoft Power BI [Download Here](https://www.microsoft.com)
  
   ### Insights and Recommendations
 
