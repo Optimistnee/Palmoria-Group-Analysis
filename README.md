@@ -30,4 +30,7 @@ This project involves various analysis tasks, including:
   * Ratings based on gender
   * Salary structure and Gender Pay Gap
   * Compliance with minimum salary regulation
-   
+
+   ### My Analysis
+
+   ![c06d4e09-bf8a-482a-94ce-c6475c135de5](https://github.com/user-attachments/assets/81db3aed-f2ec-4cac-99ac-66b4db89d7dc)
